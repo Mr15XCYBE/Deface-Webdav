@@ -1,0 +1,10 @@
+# Deface-Webdav
+pkg update && pkg upgrade
+Pkg install git
+Pkg install ruby
+pkg install libcurl
+gem install curl
+pkg install curl
+git clone https://github.com/Mr15XCYBE/Deface-Webdav
+cd Deface-Webdav
+Bash Webdav.sh
